@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Мир книг</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_top">Избранное</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_open">Open</string>
+    <string name="title_activity_top">TopActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="infotext">InfoActivity \nКуку\n
+        Тест.
+    </string>
+</resources>
